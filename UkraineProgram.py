@@ -17,8 +17,7 @@
 
     return f[-1][-1]
 
-flag = True
-while(flag):
+while(1):
     print("введите \"слава украине\":",end=" ")
     s = str(input())
 
